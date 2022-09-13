@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/FernandoBergamini/teste-ebac-ui#readme",
   "devDependencies": {
-    "cypress": "^10.3.0"
+    "cypress": "^10.8.0"
   },
   "dependencies": {
     "@faker-js/faker": "^7.3.0",
